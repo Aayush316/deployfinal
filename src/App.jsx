@@ -42,7 +42,7 @@ function App(){
     return(
         <div className="app">
             <div className="title">
-                <h1>Our Testimonials</h1>
+                <h1>Our Testimonials Our Test</h1>
                 <div style={{backgroundColor:"#007BFF", height:"0.2rem", width:"10rem", borderRadius:"20rem", marginLeft:'5.2rem'}}></div>
             </div>
             <motion.div className='cardParent' style={{rotateX, rotateY, transformStyle:'preserve-3d'}} onMouseMove={mouseMoveHandler} onMouseLeave={mouseLeaveHandler} >

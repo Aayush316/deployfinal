@@ -1,0 +1,19 @@
+.app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    width: 100vw;
+
+}
+
+.cardParent{
+    background-color: #007bff72;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 20px 0px #007bff72 ;
+}
+
+.title{
+    margin-bottom: 2.8rem;
+}
